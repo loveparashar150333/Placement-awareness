@@ -1,5 +1,5 @@
 
-![Logo](https://th.bing.com/th/id/R.06211893f13b4fb69d4f0947f5d061f9?rik=axPacROLKGSt0A&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2016%2f06%2fwalmart-logo.jpg&ehk=QAPqFa3PkbiPgSZImuNmt4qK5xY6etkwbMpTjptzUao%3d&risl=&pid=ImgRaw&r=0)
+![Logo](https://www.stockinvestor.com/wp-content/uploads/walmart-store-front_129826456676858078.jpg)
 
 
 
