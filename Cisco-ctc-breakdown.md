@@ -5,7 +5,7 @@
 
 # Cisco recent CTC breakdown for Freshers for SDE-1 role
 
-Hi, I am your friend Love parashar, This document contains the expected current CTC trend of Cisco for SDE-1 role for freshers this year.
+Hi, I am your friend **Love parashar** 😁, This document contains the expected current CTC trend of Cisco for SDE-1 role for freshers this year.
 
 Here Below, I have picked the recent CTC breakdown of Cisco for this year.
 
