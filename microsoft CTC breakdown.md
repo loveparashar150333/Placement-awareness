@@ -5,27 +5,28 @@
 
 # Microsoft CTC breakdown for Freshers for SDE-1 role
 
-Hi, I am your friend Love parashar, This document contains the expected current CTC trend of Microsoft for SDE-1 role for freshers this year.
+Hi, I am your friend **Love parashar** 😁, 
+This document contains the expected current CTC trend of **Microsoft** for SDE-1 role for freshers this year.
 
-Here Below, I have picked the recent CTC breakdown of Microsoft for this year.
+Here Below, I have picked the recent CTC breakdown of **Microsoft** for this year.
 
 
 ## CTC Breakdown
 
 
-Title/Level: Software Engineer
+**Title/Level**: Software Engineer
 
-Location: Bengaluru
+**Location**: Bengaluru
 
-Base pay: INR 15,00000
+**Base pay**: INR 15,00000
 
-Variable (Max Potential): INR 3,00000 (@20% bonus)
+**Variable (Max Potential)**: INR 3,00000 (@20% bonus)
 
-Joining Bonus: INR 5,00000
+**Joining Bonus**: INR 5,00000
 
-RSU's on Joining: USD 35000
+**RSU's on Joining**: USD 35000
 
-Cost to Company (CTC): INR  51,93,150
+**Cost to Company (CTC)**: INR  51,93,150
 
 
 ## 🔗 Follow me
