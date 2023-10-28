@@ -5,32 +5,32 @@
 
 # Rippling recent CTC breakdown for Freshers for SDE-1 role
 
-Hi, I am your friend Love parashar 😁.
+Hi, I am your friend **Love parashar** 😁.
 
-This document contains the expected current CTC trend of Rippling for SDE-1 role for freshers this year.
+This document contains the expected current CTC trend of **Rippling** for SDE-1 role for freshers this year.
 
-Here Below, I have picked the recent CTC breakdown of Rippling for this year.
+Here Below, I have picked the recent CTC breakdown of **Rippling** for this year.
 
 
 
 ## CTC Breakdown
 
 
-Title/Level: SDE 1 (2023 Grad)
+**Title/Level**: SDE 1 (2023 Grad)
 
-Location: Bangalore
+**Location**: Bangalore
 
-CTC first year: 44 lakhs
+**CTC first year**: 44 lakhs
 
-Base: 36 lakhs
+**Base**: 36 lakhs
 
-Esops: 32 lakhs (25% each for 4 years. 8 lakhs after first year, 8/12 lakhs every month for next 36 months)
+**Esops**: 32 lakhs (25% each for 4 years. 8 lakhs after first year, 8/12 lakhs every month for next 36 months)
 
-Signon Bonus: None
+**Signon Bonus**: None
 
-Performance Bonus: None
+**Performance Bonus**: None
 
-Retention Bonus: None
+**Retention Bonus**: None
 
 
 ## 🔗 Follow me
