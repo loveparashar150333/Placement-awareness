@@ -13,17 +13,17 @@ Here Below, I have picked the recent CTC breakdown of Cisco for this year.
 ## CTC Breakdown
 
 
-Title/Level: Software Developer Engineer 1
+**Title/Level**: Software Developer Engineer 1
 
-Location: Bengaluru, India
+**Location**: Bengaluru, India
 
-Salary: INR 14.5 Lakhs
+**Salary**: INR 14.5 Lakhs
 
-Relocation: INR 73,000
+**Relocation**: INR 73,000
 
-Signing Bonus: 2.5 lakhs per two years + extra bonus
+**Signing Bonus**: 2.5 lakhs per two years + extra bonus
 
-Total comp (Salary + Bonus + Stock): INR 24.73 LPA
+**Total comp (Salary + Bonus + Stock)**: INR 24.73 LPA
 
 
 ## 🔗 Follow me
