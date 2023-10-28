@@ -1,36 +1,34 @@
 
-![Logo](https://assets-global.website-files.com/5be3972f1712fa825bb32775/5e4d7c1e231939ab90d92db3_Rippling_logo_Full_Black.png)
+![Logo](https://th.bing.com/th/id/R.06211893f13b4fb69d4f0947f5d061f9?rik=axPacROLKGSt0A&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2016%2f06%2fwalmart-logo.jpg&ehk=QAPqFa3PkbiPgSZImuNmt4qK5xY6etkwbMpTjptzUao%3d&risl=&pid=ImgRaw&r=0)
 
 
 
-# Rippling recent CTC breakdown for Freshers for SDE-1 role
+# Walmart recent CTC breakdown for Freshers for SDE-II role
 
 Hi, I am your friend **Love parashar** 😁.
 
-This document contains the expected current CTC trend of **Rippling** for SDE-1 role for freshers this year.
+This document contains the expected current CTC trend of **Walmart** for SDE-II role for freshers this year.
 
-Here Below, I have picked the recent CTC breakdown of **Rippling** for this year.
+Here Below, I have picked the recent CTC breakdown of **Walmart** for this year.
 
 
 
 ## CTC Breakdown
 
 
-**Title/Level**: SDE 1 (2023 Grad)
+**Title/Level**: Software Development Engineer 2 (IN2)
 
-**Location**: Bangalore
+**Location**: Bangalore, India
 
-**CTC first year**: 44 lakhs
+**Salary**: INR 16.24 LPA
 
-**Base**: 36 lakhs
+**Signing Bonus**: INR 2L
 
-**Esops**: 32 lakhs (25% each for 4 years. 8 lakhs after first year, 8/12 lakhs every month for next 36 months)
+**Annual Incentive Amount**: INR 1.55L (Can range from 0x to 2.5x)
 
-**Signon Bonus**: None
+**New Hire RSU's**: INR 2.10L (Vested over 2 years)
 
-**Performance Bonus**: None
-
-**Retention Bonus**: None
+**Total comp (Salary + Bonus + Stock)**: INR 21.89L
 
 
 ## 🔗 Follow me
