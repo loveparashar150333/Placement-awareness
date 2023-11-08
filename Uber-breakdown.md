@@ -1,5 +1,5 @@
 
-![Logo](https://logospng.org/download/uber/logo-uber-preta-4096.png)
+![Logo](https://www.luton-airport-guide.co.uk/content/uploads/2016/06/Uber-Logo.png)
 
 # Uber recent CTC breakdown for Freshers for SDE-1 role
 
