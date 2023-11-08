@@ -15,7 +15,7 @@ Here Below, I have picked the recent CTC breakdown of **Intuit** for this year.
 
 **Title/Level**: Software Developer Engineer 1
 
-**Location**: Pune, India
+**Location**: Bangalore, India
 
 **Salary**: INR 17.5 Lakhs
 
