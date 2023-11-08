@@ -1,13 +1,13 @@
 
-![Logo](https://th.bing.com/th/id/R.e6efaebfa32e723512b775719d2bdd2a?rik=rfu7P4W5HBABng&riu=http%3a%2f%2flogonoid.com%2fimages%2fbny-mellon-logo.png&ehk=2Vs%2f9LcsJkOfG7qXQpumf4vaPXpPsqui1NxbtDoFysQ%3d&risl=&pid=ImgRaw&r=0)
+![Logo](https://logos-download.com/wp-content/uploads/2016/05/Intuit_logo_logotype.png)
 
 
 
-# BNY Mellon recent CTC breakdown for Freshers for SDE-1 role
+# Intuit recent CTC breakdown for Freshers for SDE-1 role
 
-Hi, I am your friend **Love parashar** 😁, This document contains the expected current CTC trend of BNY Mellon for SDE-1 role for freshers this year.
+Hi, I am your friend **Love parashar** 😁, This document contains the expected current CTC trend of Intuit for SDE-1 role for freshers this year.
 
-Here Below, I have picked the recent CTC breakdown of **BNY Mellon** for this year.
+Here Below, I have picked the recent CTC breakdown of **Intuit** for this year.
 
 
 ## CTC Breakdown
@@ -17,13 +17,15 @@ Here Below, I have picked the recent CTC breakdown of **BNY Mellon** for this ye
 
 **Location**: Pune, India
 
-**Salary**: INR 17 Lakhs
+**Salary**: INR 17.5 Lakhs
 
-**Relocation**: INR 50,000
+**Bonus**: INR 1,75,000
 
-**Signing Bonus**: 3 lakhs for 1st year only
+**Stock Bonus**: 21,000 USD over 3.5 years
 
-**Total comp (Salary + Bonus + Stock)**: INR 21.64 LPA
+**Signing Bonus**: 3.5 lakhs for 1st year only
+
+**Total comp (Salary + Bonus + Stock)**: INR 26.85 LPA for 1st year
 
 
 ## 🔗 Follow me
